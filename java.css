@@ -1,0 +1,51 @@
+
+
+body{
+    background-color: #1e1e2f;
+    color: #fff;
+}
+
+footer {
+    background-color: #2f3640;
+    color: #7f8fa6;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    margin-top: 60px;
+  }
+  
+  button {
+    background-color: #0984e3; 
+    color: #fff;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 70px;
+  }
+
+  button:hover {
+    background-color: #0ab6ff; 
+    transform: scale(1.05); /* Cresce levemente */
+}
+
+
+  .loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 20px;
+    
+  }
+
+  .buttonjava{
+    margin-top: 100px;
+    
+  }
+
+ 
