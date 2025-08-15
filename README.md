@@ -13,8 +13,5 @@ Este repositório é um **glossário técnico** criado para ajudar estudantes, i
 - 🧩 **Conceitos e comandos JavaScript** básicos para adicionar interatividade às páginas.
 - 📁 Organização por pastas e arquivos separados para facilitar a navegação.
 
----
-
-## 📂 Estrutura do Repositório
 
 
